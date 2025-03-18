@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Advanced Amateur",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "en-GB",
+    baseUrl: "doghouse-mike.github.io/my-notes2",
+    ignorePatterns: ["private", "/Templates/", "/templates/", "Templates/", "templates/", "FleetingNotesApp/", "LYT Kit/", "Meetings/", "Old Blog Posts/", "PKM LM/", "Tasks/", "To read/", "Resources", "Secret Sales Help Centre", "smart-chats", "Daily Notes/", ".obsidian"], 
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["git", "frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -89,6 +89,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
+      Plugin.ExplicitPublish(),
     ],
   },
 }
