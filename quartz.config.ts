@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "doghouse-mike.github.io/my-notes2",
-    ignorePatterns: ["private", "Templates", "templates", "FleetingNotesApp", "LYT Kit", "Meetings", "Old Blog Posts", "PKM LM", "Tasks", "To read", "Resources", "Secret Sales Help Centre", "smart-chats", "Daily Notes", ".obsidian"], 
+    ignorePatterns: ["private", "/Templates", "templates", "FleetingNotesApp", "LYT Kit", "Meetings", "Old Blog Posts", "PKM LM", "Tasks", "To read", "Resources", "Secret Sales Help Centre", "smart-chats", "Daily Notes", ".obsidian"], 
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
