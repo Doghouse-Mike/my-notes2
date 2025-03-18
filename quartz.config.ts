@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "doghouse-mike.github.io/my-notes2",
     ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
