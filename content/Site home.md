@@ -15,3 +15,4 @@ Welcome aboard. This is mostly a blank home page thing so there's a "default". I
 
 If you can see this bit, then the latest sync has worked on the morning of 19/03/2025 and hopefully *has not* added any extra folders to the explorer?
 
+Don't get impatient, give it a minute or 5 to deploy, ya numpty!
