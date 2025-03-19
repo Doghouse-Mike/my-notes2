@@ -1,12 +1,14 @@
 ---
 date created: Saturday, March 26th 2022, 9:47:29 am
-date modified: Monday, March 17th 2025, 9:55:10 pm
+date modified: Wednesday, March 19th 2025, 9:29:30 pm
 dg-publish: false
 title: Angus
 url: https://doghouse-mike.micro.blog/angus/
 ---
 
 # Angus
+
+Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, cos computers are hard. 
 
 ![8CD29061 5FE1 4C13 82E0 7A4BDB10E96D|839x839](https://i.imgur.com/B1k1Ixs.jpeg)
 
