@@ -2,8 +2,6 @@
 tags: 
 date created: Sunday, March 2nd 2025, 4:09:45 pm
 date modified: Tuesday, March 18th 2025, 9:50:03 am
-dg-home: true
-dg-publish: true
 draft: false
 title: Site home
 ---
