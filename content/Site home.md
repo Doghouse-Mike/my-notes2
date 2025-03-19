@@ -13,4 +13,5 @@ Welcome aboard. This is mostly a blank home page thing so there's a "default". I
 ![[B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
 
 
-If you can see this bit, then the latest sync has worked 19/03/2025 and hopefully *has not* added any extra folders to the explorer. 
+If you can see this bit, then the latest sync has worked on the morning of 19/03/2025 and hopefully *has not* added any extra folders to the explorer?
+
